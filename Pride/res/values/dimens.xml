@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="pager_tab_strip_vertical_padding">4.0dip</dimen>
+    <dimen name="main_icon_padding">8.0dip</dimen>
+    <dimen name="splash_title_text_size">60.0sp</dimen>
+    <dimen name="splash_subtitle_text_size">14.0sp</dimen>
+
+</resources>

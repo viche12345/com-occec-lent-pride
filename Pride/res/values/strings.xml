@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pride</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro">intro</string>
+    <string name="envy">envy</string>
+    <string name="vainglory">vainglory</string>
+    <string name="sloth">sloth</string>
+    <string name="avarice">avarice</string>
+    <string name="anger">anger</string>
+    <string name="gluttony">gluttony</string>
+    <string name="lust">lust</string>
+    <string name="pride">PRIDE</string>
+    <string name="summary">SUMMARY</string>
+    <string name="symptoms">SYMPTOMS</string>
+    <string name="reflect">REFLECT</string>
+    <string name="notes">Notes</string>
+    <string name="puttingToDeath">PUTTING TO DEATH</string>
+    <string name="askGod">ASK GOD</string>
+    <string name="practice">PRACTICE</string>
+    <string name="devo_envy_title">FEELING BITTER WHEN OTHERS HAVE IT BETTER</string>
+    <string name="devo_envy_subtitle">RESENTING OTHERS’ GIFTS FROM GOD BECAUSE THEY APPEAR BETTER THAN YOURS</string>
+    <string name="devo_envy_summary">"“The bottom line for the envious is how they stack up against others, because they measure their self-worth comparatively. The envious sorrow over another’s good because it excels their own, and because the comparison reveals not only their lack of that particular good, but also their consequent lack of worth. Unlike the possession of goodness (“I am good/this is good), “to excel” is a two-term relation, implying a comparative ranking: “I excel you.”
+
+“Enviers don’t usually envy those who are far removed from their lives and lifestyles, or who are vastly more talented or successful than they are. They tend to envy people to whom they might actually be compared unfavorably, that is, those who are just like them—only better. A writer couldn’t care less if an Olympic athlete wins gold in the 5,000-meter run, while she can barely finish a local 5K road race. But she burns when her colleague gets a rave review on his new novel, while her own published work gets only half-hearted notice…As [Thomas] Aquinas puts it, we envy only those whom we wish to rival or surpass in reputation.”"</string>
+    <string name="devo_envy_pride_summary">“The vice of envy is rooted in pride, because the envier takes it to be her prerogative and responsibility to make her own place in the ranking and manufacture her own worth by usurping God’s role: founding their self-worth on their own claims to excellence, creating their own superior status by engineering the downfall of their competitors, and deciding for themselves who is and who is not worthy of the greater gifts.”</string>
+    <string name="devo_envy_bible_verse">JAMES 3:13-18</string>
+    <string name="devo_envy_reflect">"Envy strikes at the heart of our identity and worth. We envy those who are better than we are in areas that are central to how we define ourselves. 
+
+Spend some time reflecting on what you personally envy others for. What do these things tell you about how you measure your self-worth? 
+
+The danger of envy is that it isn’t just something we feel on the inside. It corrodes our relationships with others by focusing all our time and energy on ourselves. As a result we become more bitter and selfish. It doesn’t just stop there. James tells us that envy leads to disorder and opens us up to every evil practice. 
+
+Consider how envy infects the various aspects of your life."</string>
+    <string name="devo_vainglory_title">IMAGE IS EVERYTHING</string>
+    <string name="devo_vainglory_subtitle">TRYING TO APPEAR BETTER THAN WE ARE TO WIN RECOGNITION AND APPROVAL FROM OTHERS</string>
+    <string name="devo_vainglory_summary">"“Most of us know this vice well, even if we have never heard this name for it before. Vainglory is the excessive and disordered desire for recognition and approval from others.”
+
+“When caught in the vice of vain-glory, we want acclaim too much, so much, in fact, that we will accept it whether it is deserved or not.”
+
+“The vainglorious…do not aspire to something because it is excellent. Rather, they seek whatever will bring in the most public applause, whether deserving or not…The whole point for the vainglorious is that others take notice. When we are plagued by this vice, we need people to nod and smile approvingly when we walk by. Vainglory disposes us to be more concerned with our reputation (what others think about us) than with what we really are. For the vainglorious, image is everything.”"</string>
+    <string name="devo_vainglory_pride_summary">“Both pride and vainglory seek to make us the center of the universe. With vainglory, our best energy goes into enhancing and controlling our image, appearance, and reputation. In the end, however, trying to manage our own reputation and manufacture approval for ourselves yields a life of isolation, falsity and shallowness, and self-preoccupation.”</string>
+    <string name="devo_vainglory_bible_verse">MATTHEW 6:1-8</string>
+    <string name="devo_vainglory_reflect">"Vainglory is about making ourselves look better than we really are. In Chinese culture we call this “saving face.” We are worried more about what others think about us than we are with what we really are.
+
+Take some time to consider how much of your time is and energy is directed towards “keeping up appearances”? Write down some specific instances of how vainglory expresses itself in your life.
+
+Reflect on the ways in which the reputation you have built up is a false representation of who you really are.
+
+Take some time to consider the “why” of all your vainglorious pursuits. What ultimately are the pay-offs? How much do these things really matter? What would it look like for you to take Jesus’ counsel about making a habit of doing good things in “secret”?"</string>
+    <string name="devo_sloth_title">LAZY ABOUT LOVE</string>
+    <string name="devo_sloth_subtitle">BEING UNWILLING TO BE OR DO ALL GOD WANTS FROM US BECAUSE THAT WOULD TAKE EFFORT AND WE WANT THE EASY WAY OUT</string>
+    <string name="devo_sloth_summary">"“Sloth is opposed to the great Christian virtue of diligence—that powerful sense of responsibility, dedication to hard work, and conscientious completion of one’s duties. And what is hard work and dedication at its best, after all, but an expression of love and devotion? The telltale root of our word diligence is the Latin diligere, which means ‘to love.’ Sloth, on this view, is apathy—comfortable indifference to duty and neglect of other human beings’ needs. If you don’t work hard, you don’t care enough. Sloth becomes a sin not merely because it makes us lazy, but because of the lack of love that lies behind that laziness.”
+
+“It is through daily practices and disciplines, whether we feel like doing them or not, that the decision to love is renewed and refreshed, and the commitment of love is kept alive. The slothful person, in this sense, is one who resists the effort of doing day after day after day whatever it takes to keep the bonds of love strong an living and healthy, whether he or she feels particularly inspired about doing it or not.”"</string>
+    <string name="devo_sloth_pride_summary">“The slothful person ultimately insists on his own way, his own will, his own self-made pseudo-rest. His lack of commitment speaks of an unwillingness to surrender himself to God. It is this resistance that roots the vice of sloth in pride… The slothful person tries to find happiness while evading the daily demands of self-giving love. He prefers his own diligent efforts to make himself happy with shortcuts and quick fixes.”</string>
+    <string name="devo_sloth_bible_verse">MATTHEW 22:37-40</string>
+    <string name="devo_sloth_reflect">"Sloth is a serious vice because the entire commitment of one’s life to God is at stake. It is the stubborn resistance to the demands that relationships of love make on us.
+
+One way we avoid such demands is by distracting ourselves. Take some time to consider how sloth in your life expresses itself in constant diversions. List your diversions down.
+
+Take some time to consider what there is to gain from sloth—of avoiding anything that may require effort and hard work. Has it led to greater joy or despair?"</string>
+    <string name="devo_avarice_title">I WANT IT ALL</string>
+    <string name="devo_avarice_subtitle">WANTING TO BE ABLE TO PROVIDE FOR OUR NEEDS BY OURSELVES WITHOUT HAVING TO DEPEND ON GOD.</string>
+    <string name="devo_avarice_summary">"“Greed is an excessive love of or desire for money or any possession money can buy.”
+
+“[Thomas] Aquinas argues that human beings are tempted to seek material wealth because it gives us the illusion of self-sufficiency—and therefore serves as a powerful incentive to deny our need for God. Who among us would want to give up the power to make ourselves comfortable and secure in the world? The possession of money represents this self-sufficiency and the power to secure it, and is a convenient and much less demanding replacement for God.”
+
+“Greed’s inner clutch on the heart can corrode the virtue of generosity and dampen our enthusiasm and eagerness to give freely. At its worst, however, greed also incites us to the obstinate refusal to meet even the demands of basic justice, as we opt instead to keep more than our share. The greedy are excessive to the point of depriving others of what they deserve or need.”"</string>
+    <string name="devo_avarice_pride_summary">“Greed, like all the deadly sins, is anchored in pride and nourished by it. Prideful greed is the desire to take over God’s role and make sure we get enough for ourselves—or better yet, to make sure we get what we want. It is the desire to be able to provide fully for ourselves, and therefore not to have to depend on God.”</string>
+    <string name="devo_avarice_bible_verse">LUKE 12:13-21</string>
+    <string name="devo_avarice_reflect">"John D. Rockefeller was once asked, “How much money is enough?” He responded, “Just a little more.”
+
+How would you answer the question, “How much is enough?”
+
+Jesus reminds us that “a man’s life does not consist in the abundance of his possessions.” One way to think about our possessions is to see them as things we “use” rather than as stuff to store up. Ask yourself, “Why has God given you what you have? What might God want you to do with the things you own? Are there ways they can be used to benefit others and not just yourself?”
+
+Jesus ends by telling us to be “rich towards God.” How do you understand this challenging phrase? What steps can you take, in your day-to-day life, to increase this kind of inner wealth in your life?"</string>
+    <string name="devo_anger_title">HOLY EMOTION OR HELLISH PASSION?</string>
+    <string name="devo_anger_subtitle">PERVERTING THE PASSIONATE PURSUIT OF JUSTICE INTO A QUEST FOR PERSONAL REVENGE</string>
+    <string name="devo_anger_summary">"“When it is good, anger is a passion for justice, motivated by love for others… Anger turns vicious, however, when it fights for its own selfish cause, not for justice, and when it fights dirty. That is, anger becomes a vice when there are problems with its target—whatever it is that makes us angry—or with the way we try to hit that target—how we express our anger.”
+
+“[Thomas] Aquinas breaks down wrath’s disordered expression into three main categories. We can get angry too easily (for example, when we are quick-tempered); we can get angrier than we should (for instance, when our anger is disproportionate to the offense); and we can stay angry too long (that is, when anger smolders into resentment and grudge holding).”
+
+“’The underlying message of highly angry people,’ according to the American Psychological Association website, is that ’things oughta go my way!’ Angry people tend to feel that…any blocking or changing of their plans is an unbearable indignity and that they should not have to suffer this way. Maybe other people do, but not them!”"</string>
+    <string name="devo_anger_pride_summary">“Once we realize that pride is the root of wrath, when we dig deep to discover the causes of our wrath, we must face our assumptions about who we think we are, how much control over ourselves and our world we desire and assume we have, what makes us feel threatened and what makes us feel secure. Whereas wrath is rooted in pride, the strength of gentleness and the steadfastness of love in the face of adversity are rooted in a deep trust in God to handle things.”</string>
+    <string name="devo_anger_bible_verse">MARK 3:1-6</string>
+    <string name="devo_anger_reflect">"Although we know that Jesus was angry about sin many times, the only time the word is applied to him is here in this passage.
+
+When we get angry our anger can go wrong in 2 main ways: (1) WHAT we get angry about and (2) HOW we express our anger.
+
+In this passage, Jesus shows us the way of righteous anger. Jot down in your own words what Jesus gets angry about and how he expresses his anger. What motivates Jesus’ anger?
+
+Take some time to consider the last time you got angry. What were you angry about? How did you express your anger? What motivated your anger?
+
+Compare your anger with Jesus’ anger. If possible, consider how your anger demonstrates a lack of trust in God."</string>
+    <string name="devo_gluttony_title">FEEDING YOUR FACE AND STARVING YOUR HEART</string>
+    <string name="devo_gluttony_subtitle">TRYING TO USE THE PLEASURE OF EATING TO ATTAIN SPIRITUAL FULLNESS AND SATISFACTION</string>
+    <string name="devo_gluttony_summary">"“Gluttony is really not about how much we’re eating, but about how our eating reflects how much pleasure we take in eating food and why. Eating is meant to be pleasurable, and so is feeling filled after being hungry. These pleasures…are all good God-given gifts…The main question we should be asking is not, ‘How much is too much?’ but rather, ‘How dominated by the desire for this pleasure am I? How difficult would it be to have to give it up or do without it?’ The trouble with gluttony is that it reduces eating to an exercise in gratifying my own desires for physical pleasures, consuming whatever I think will make me full and satisfied.”
+
+“Gluttony’s excessive pursuit of the pleasures of the table eventually dulls our appreciation for the food we eat, the pleasure we take in eating it, those with whom we eat, and the God who created what we eat and gave us the ability to take pleasure in it.”
+
+“What really matters is that whatever and when-ever we eat, we not be so overly attached to the pleasure that we cannot easily and uncomplainingly choose to give it up when duty or necessity requires this.”"</string>
+    <string name="devo_gluttony_pride_summary">“When the gluttonous feel need or emptiness, they do not want to have to depend on God or wait on God to fill it. The pleasure of food is not only readily available, but some-thing we can use to quell our own feelings of need and longing. With food, we can comfort ourselves, fill ourselves, provide pleasure for ourselves—if only physically, and if only for a short while. The glutton’s pursuit of happiness is found in what he can do, not in what God will give him. The addictive quality of pleasure seeking is seated, often enough, in this need for control over our own ability to be happy and full. This is pride.”</string>
+    <string name="devo_gluttony_bible_verse">MATTHEW 4:1-11</string>
+    <string name="devo_gluttony_reflect">"The first temptation Jesus faces in the desert is to turn stone into bread. Jesus famously answers by quoting Deut. 8:3, “Man does not live on bread alone, but on every word that comes from the mouth of God.”
+
+On a scale of 1-10 (1 being really easy and 10 being really hard), rate how difficult it would be to go a whole day without any food.
+
+How about going a whole day without reading Scripture?
+
+Take some time to reflect on whether you have been living on bread alone?
+
+Consider how you might be starving your heart while feeding your face."</string>
+    <string name="devo_lust_title">CRIMES OF PASSION</string>
+    <string name="devo_lust_subtitle">SEEKING SEXUAL PLEASURE AND GRATIFICATION FOR MYSELF AT THE COST OF FULLY HUMAN RELATIONSHIPS WITH OTHERS</string>
+    <string name="devo_lust_summary">"“In a nutshell, lust is the excessive desire for my own sexual pleasure.”
+
+“The problem is lust’s reductive impulses: to reduce sexual pleasure to one’s own individual gratification, apart from a relationship to a person; or to reduce it to the only end we have in view, apart from all its other purposes; or to strip it down to its purely physical dimension, apart from its integration into our full humanity.”
+
+“In lust, sexual pleasure is divorced from love and mutual self-giving. And when we lust we certainly want nothing to do with giving life and the future commitments that it might bring—if we even register the thought that the organs involved are reproductive by design.”
+
+“Lust is a vice…because it does not honor the fullness of sex, and it alienates people from each other just when they are sup-posed to be experiencing intimate union. There’s a betrayal of meaning in lust’s use of sex for nothing but self-gratification, and it is difficult to be lustful without feeling that loss at some level. If one is successful in becoming immune to the goods involved in sex, one has also been successful in becoming less fully human.”"</string>
+    <string name="devo_lust_pride_summary">“Lust is the habit of trying to engineer my own happiness for myself, on my own terms. In lust, my own pleasure is the goal, and I decide where to get it, and when, and with whom. My life revolves around my desires, wants, and ‘needs.’ I disown my need for God’s love or the love of others… Unlike one who risks depending on the love of another and who risks giving himself to another, the lustful one chooses to be autonomous, providing his good for himself… Both our independence and our need to define and create a false happiness for ourselves are telltale hallmarks of pride.”</string>
+    <string name="devo_lust_bible_verse">MATTHEW 5:27-30</string>
+    <string name="devo_lust_reflect">"Sexual desires are a natural and beautiful thing—part of the wonder of being human. They are also powerful and we often underestimate their force and hold on us. Maybe that’s why Jesus uses such graphic imagery in describing the lengths we should take to control them—gouge your eye out, cut off your hand. Jesus isn’t asking us to literally maim our bodies. He is trying to say in the strongest possible way that we need to take lust seriously.
+
+Take some time to consider what having a lustful habit says about the kind of person you are becoming. How does it deform your capacity to love? How do your habits of pleasure-seeking corrupt your relationship with God?
+
+Often times, in our weakest moments, we tend to rationalize what we want even when we know it’s wrong. What types of excuses do you use with lust? Take some time to consider how these might be signs of pride in you that reject God’s good design for you."</string>
+    <string name="preface">PREFACE</string>
+    <string name="preface_body">During the forty day season of Lent, we remember that Jesus spent forty days preparing for his ministry by fasting and acknowledging those temptations that might distract him from obedience to God (Matthew 4:1-11). We hope that this devotional will help us to do the same, reflecting on our sin and on the things we have allowed to get in the way of following God.</string>
+    <string name="preface_part1">PART I: WHAT IS LENT?</string>
+    <string name="preface_part2">PART II: WHAT ARE THE SEVEN DEADLY SINS?</string>
+    <string name="guidelines">GUIDELINES</string>
+    <string name="timeline">SUGGESTED TIMELINE</string>
+    <string name="credits">CREDITS</string>
+    <string name="credit_caption">All the material on the seven deadly sins in this devotional is based on the book \"Glittering Vices\" by Rebecca Konyndyk DeYoung (Professor of Philosophy at Calvin College). If you found going through these pages helpful, we would encourage you to pick up a copy of this book to read for yourself!</string>
+
+</resources>

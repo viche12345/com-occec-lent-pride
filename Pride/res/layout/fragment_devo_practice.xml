@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@id/devoHeaderLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_envy"
+        android:paddingBottom="8.0dip"
+        android:paddingRight="4.0dip"
+        android:paddingTop="8.0dip" >
+
+        <ImageView
+            android:id="@id/imageViewDevoIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16.0dip"
+            android:src="@drawable/main_icon_envy" />
+
+        <TextView
+            android:id="@id/textViewName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/imageViewDevoIcon"
+            android:layout_alignRight="@id/imageViewDevoIcon"
+            android:layout_marginTop="4.0dip"
+            android:gravity="center"
+            android:text="@string/envy"
+            android:textColor="#ffffffff"
+            android:textSize="14.0sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/imageViewDevoIcon"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@id/textViewPuttingToDeath"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/puttingToDeath"
+                android:textColor="#ffffffff"
+                android:textSize="22.0sp" />
+
+            <TextView
+                android:id="@id/textViewNameBig"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/envy"
+                android:textAllCaps="true"
+                android:textColor="#ffffffff"
+                android:textSize="46.0sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <include layout="@layout/include_devo_practice" />
+
+</LinearLayout>

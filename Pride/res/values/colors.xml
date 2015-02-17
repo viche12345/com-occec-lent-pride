@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_color">#ff344d6c</color>
+    <color name="color_envy">#ff39a158</color>
+    <color name="color_vainglory">#ff7153a0</color>
+    <color name="color_sloth">#ff4e74a2</color>
+    <color name="color_avarice">#ffb0b701</color>
+    <color name="color_anger">#ff800000</color>
+    <color name="color_gluttony">#fff39b1c</color>
+    <color name="color_lust">#ffd0050c</color>
+
+</resources>

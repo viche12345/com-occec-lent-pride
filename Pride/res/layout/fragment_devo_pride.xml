@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@id/devoHeaderLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_envy" >
+
+        <ImageView
+            android:id="@id/iconPride"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:src="@drawable/icon_pride" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/iconPride"
+            android:text="@string/pride"
+            android:textColor="#ffffffff"
+            android:textSize="24.0sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin" >
+
+            <TextView
+                android:id="@id/textViewPrideSummary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8.0dip"
+                android:layout_marginTop="8.0dip"
+                android:background="#ffcdcdcd"
+                android:padding="16.0dip"
+                android:text="@string/devo_envy_pride_summary" />
+
+            <TextView
+                android:id="@id/textViewReflect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8.0dip"
+                android:text="@string/reflect"
+                android:textAppearance="?android:textAppearanceLarge" />
+
+            <TextView
+                android:id="@id/textViewVerse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12.0dip"
+                android:text="@string/devo_envy_bible_verse"
+                android:typeface="monospace" />
+
+            <TextView
+                android:id="@id/textViewReflectSummary"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8.0dip"
+                android:text="@string/devo_envy_reflect" />
+
+            <EditText
+                android:id="@id/editTextNotes"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:gravity="top"
+                android:hint="@string/notes"
+                android:inputType="textCapSentences|textMultiLine"
+                android:minLines="4" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

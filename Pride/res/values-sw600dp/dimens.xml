@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="pager_tab_strip_vertical_padding">16.0dip</dimen>
+    <dimen name="main_icon_padding">16.0dip</dimen>
+    <dimen name="splash_title_text_size">90.0sp</dimen>
+    <dimen name="splash_subtitle_text_size">24.0sp</dimen>
+
+</resources>

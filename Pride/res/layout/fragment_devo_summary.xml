@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@id/imageViewDevoIconDuplicate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24.0dip"
+        android:src="@drawable/main_icon_envy" />
+
+    <RelativeLayout
+        android:id="@id/devoHeaderLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_envy"
+        android:paddingBottom="8.0dip"
+        android:paddingRight="4.0dip"
+        android:paddingTop="8.0dip" >
+
+        <ImageView
+            android:id="@id/imageViewDevoIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16.0dip"
+            android:src="@drawable/main_icon_envy" />
+
+        <TextView
+            android:id="@id/textViewName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/imageViewDevoIcon"
+            android:layout_alignRight="@id/imageViewDevoIcon"
+            android:layout_marginTop="4.0dip"
+            android:gravity="center"
+            android:text="@string/envy"
+            android:textColor="#ffffffff"
+            android:textSize="14.0sp" />
+
+        <TextView
+            android:id="@id/textViewDevoTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/imageViewDevoIcon"
+            android:text="@string/devo_envy_title"
+            android:textColor="#ffffffff"
+            android:textSize="18.0sp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:id="@id/textViewDevoSubtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/textViewDevoTitle"
+            android:layout_below="@id/textViewDevoTitle"
+            android:layout_marginTop="8.0dip"
+            android:text="@string/devo_envy_subtitle"
+            android:textColor="#ffffffff"
+            android:textSize="14.0sp" />
+    </RelativeLayout>
+
+    <include layout="@layout/include_devo_summary" />
+
+</RelativeLayout>

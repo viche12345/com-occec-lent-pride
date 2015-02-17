@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@id/linearLayoutPrideLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="P R "
+            android:textSize="@dimen/splash_title_text_size" />
+
+        <ImageView
+            android:id="@id/imageViewPrideIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/large_intro_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" D E"
+            android:textSize="@dimen/splash_title_text_size" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@id/textViewSubtitle1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30.0dip"
+        android:text="R E A D I N G S   A N D   D E V O T I O N S"
+        android:textSize="@dimen/splash_subtitle_text_size" />
+
+    <TextView
+        android:id="@id/textViewSubtitle2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10.0dip"
+        android:text="F O R   T H E   S E A S O N   O F   L E N T  2 0 1 5"
+        android:textSize="@dimen/splash_subtitle_text_size" />
+
+</merge>

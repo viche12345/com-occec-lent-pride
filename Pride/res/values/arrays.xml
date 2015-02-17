@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="envySymptoms">
+        <item>TAKING OFFENSE AT THE TALENTS OR SUCCESS OF OTHERS</item>
+        <item>SLANDER (SAYING SOMETHING BAD, EVEN IF TRUE, IN THE OPEN ABOUT SOMEONE)</item>
+        <item>BACKBITING (LIKE SLANDER, BUT BEHIND A PERSON’S BACK)</item>
+        <item>RIDICULING A PERSON, INSTITUTIONS OR IDEALS</item>
+        <item>READING FALSE MOTIVES INTO OTHERS’ BEHAVIORS</item>
+        <item>UNHAPPINESS WHEN OTHERS DO WELL</item>
+        <item>BITTERNESS, RESENTMENT, MALICE</item>
+        <item>JOY OVER ANOTHER’S DOWNFALL</item>
+    </string-array>
+    <string-array name="envyAskGod">
+        <item>HELP ME TO FIND MY SELF-WORTH IN YOUR LOVE FOR ME AND NOT IN HOW I COMPARE TO OTHERS.</item>
+        <item>HELP ME TO SEE OTHERS NOT AS COMPETITORS, BUT AS FRIENDS—WE HELP ONE ANOTHER BECOME ALL THAT YOU HAVE CREATED US TO BE.</item>
+        <item>HELP ME TO BE THANKFUL FOR WHAT I HAVE BEEN GIVEN AND NOT BE BITTER ABOUT WHAT OTHERS HAVE BEEN GIVEN.</item>
+    </string-array>
+    <string-array name="envyPractice">
+        <item>READ PSALM 139.13-16 EVERY DAY. COMMIT IT TO MEMORY. REFLECT ON HOW YOU’RE A UNIQUE CREATION OF GOD.</item>
+        <item>BE HONEST WHEN YOU FEEL BAD ABOUT HOW YOU COMPARE WITH SOMEONE ELSE—CONFESS IT, DON’T RATIONALIZE IT! SHARE IT WITH SOMEONE YOU TRUST.</item>
+        <item>GET OUT OF THE COMPARATIVE GAME—FIND COMMON GROUND WITH OTHERS AND PARTICIPATE IN COOPERATIVE ACTIVITIES.</item>
+    </string-array>
+    <string-array name="envyPracticeDetail">
+        <item>\#</item>
+        <item>\#</item>
+        <item>EXAMPLES: Serve others together, enjoy good music with others who enjoy the same music, cook together.</item>
+    </string-array>
+    <string-array name="vainglorySymptoms">
+        <item>MAKING YOURSELF LOOK BETTER THAN YOU REALLY ARE</item>
+        <item>SAYING SOMETHING FALSE OR BAD ABOUT OTHERS TO GET OTHERS TO THINK YOU’RE FUNNY OR ENTERTAINING</item>
+        <item>TRYING TO RECEIVE ATTENTION OR APPROVAL FOR YOUR CLOTHES, YOUR CAR, THE MUSIC YOU LIKE, THE NEIGHBORHOOD OR HOUSE YOU LIVE IN, YOUR APPEARANCE</item>
+        <item>DOING A GOOD THING JUST TO IMPRESS OTHERS</item>
+        <item>FEELING BAD WHEN NO ONE NOTICES SOME-THING YOU DID</item>
+        <item>HYPOCRISY</item>
+        <item>DOING SOMETHING WRONG, ILLEGAL, OR FOOLISH BECAUSE YOU WANT TO LOOK GOOD IN FRONT OF A CERTAIN CROWD</item>
+    </string-array>
+    <string-array name="vaingloryAskGod">
+        <item>HELP ME TO CARE LESS ABOUT WHAT OTHERS THINK ABOUT ME AND MORE ABOUT WHAT YOU THINK.</item>
+        <item>HELP ME TO BE HONEST ABOUT MY WEAKNESSES—WITH MYSELF AND WITH OTHERS.</item>
+        <item>GIVE ME THE COURAGE TO WORK ON MY WEAKNESSES INSTEAD OF COVERING THEM UP.</item>
+    </string-array>
+    <string-array name="vaingloryPractice">
+        <item>TRY SPENDING A DAY WHERE YOU DON’T TALK ABOUT YOURSELF. INSTEAD LISTEN TO OTHERS AND ENCOURAGE THEM TO TELL YOU ABOUT THEMSELVES.</item>
+        <item>SHARE SOME OF YOUR WEAKNESSES AND SHORTCOMINGS WITH A FRIEND/FAMILY MEMBER AND ASK THEM TO KEEP YOU ACCOUNTABLE.</item>
+        <item>MAKE A HABIT OF DOING GOOD THINGS IN “SECRET” (WHERE NO ONE WILL NOTICE).</item>
+    </string-array>
+    <string-array name="vaingloryPracticeDetail">
+        <item>\#</item>
+        <item>\#</item>
+        <item>EXAMPLES: Do the dishes when no one’s looking, pray in “secret” for the person you tried listening to.</item>
+    </string-array>
+    <string-array name="slothSymptoms">
+        <item>BEING BORED WITH MY SPIRITUAL LIFE</item>
+        <item>CHOOSING NOT TO GET INVOLVED ON BEHALF OF OTHERS</item>
+        <item>DOING WHAT’S EASY INSTEAD OF WHAT’S IMPORTANT</item>
+        <item>REACTING TO PEOPLE AND SITUATIONS WITH CYNICISM; MOCKING OTHERS</item>
+        <item>MAKING EXCUSES TO GET OUT OF ENCOUNTERS THAT MIGHT REMIND ME OF MY SPIRITUAL IDENTITY AND ITS REAL DEMANDS ON ME</item>
+        <item>WORKAHOLISM</item>
+        <item>FILLING MY TIME WITH ENTERTAINMENT, FOOD, SEXUAL PLEASURE—ANYTHING THAT WILL DISTRACT ME FROM WHAT I SHOULD BE DOING</item>
+        <item>OVERSLEEPING</item>
+    </string-array>
+    <string-array name="slothAskGod">
+        <item>HELP ME TO CARE FOR THE EVERYDAY REALITIES OF LOVING YOU.</item>
+        <item>HELP ME TO CARE FOR THE EVERYDAY REALTIES OF LOVING OTHERS.</item>
+        <item>GIVE ME THE DISCIPLINE TO PURSUE EXCELLENCE IN EVERYTHING I DO AS A WAY OF HONORING YOU.</item>
+    </string-array>
+    <string-array name="slothPractice">
+        <item>SET ASIDE SOME TIME TO PRACTICE SILENCE IN THE PRESENCE OF GOD.</item>
+        <item>DO THE EVERYDAY THINGS THAT ARE AN IMPORTANT PART OF LOVING OTHERS.</item>
+        <item>GET RID OF THE ATTITUDE THAT SAYS “WHATEVER” OR “WHO CARES?” SEE EVERYTHING AS AN OPPORTUNITY TO HONOR AND SERVE GOD.</item>
+    </string-array>
+    <string-array name="slothPracticeDetail">
+        <item>REMIND YOUSELF: God is here with me and loves me.</item>
+        <item>EXAMPLES: Try doing the dishes, taking out the garbage, cleaning around the house, praying for someone.</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="avariceSymptoms">
+        <item>SPENDING A LOT OF TIME PLANNING HOW TO ACQUIRE THINGS AND IMAGINING YOURSELF POSSESSING THEM</item>
+        <item>BEING HARD-HEARTED TOWARD THOSE WHO ARE IN NEED</item>
+        <item>BEING RELUCTANT TO GIVE GENEROUSLY</item>
+        <item>CHEATING IN SCHOOL OR GAMES OR TAXES</item>
+        <item>WASTING NATURAL RESOURCES OR PERSONAL POSSESSIONS</item>
+        <item>FEELING RESTLESS AND ANXIOUS UNTIL I CAN GET MORE STUFF</item>
+        <item>BELIEVING A PURCHASE OR ACQUISITION WILL QUIET OUR RESTLESSNESS</item>
+    </string-array>
+    <string-array name="avariceAskGod">
+        <item>HELP ME TO FIND MY SECURITY BY TRUSTING IN YOU AND NOT BY ACQUIRING MORE STUFF.</item>
+        <item>GIVE ME THE STRENGTH TO REJECT THE IDEA THAT HAVING MORE THINGS LEADS TO A MORE FULFILLING LIFE.</item>
+        <item>HELP ME BELIEVE THAT GENEROSITY IS MORE EXCITING AND MORE MEANINGFUL THAN HAVING MORE MONEY OR POSSESSIONS.</item>
+    </string-array>
+    <string-array name="avaricePractice">
+        <item>READ AND REFLECT ON MATTHEW 6.25-34. USE JESUS’ WORDS TO HELP YOU CONFESS YOUR OWN FEARS AND WORRIES TO GOD.</item>
+        <item>TRY A ONE-MONTH CONSUMERISM FAST BY STAYING AWAY FROM THINGS THAT TEMPT YOU TO WANT OR BUY MORE.</item>
+        <item>PRACTICE GENEROSITY WITH YOUR MONEY AND TIME. GIVE THEM AWAY FOR THE SAKE OF OTHERS.</item>
+    </string-array>
+    <string-array name="avaricePracticeDetail">
+        <item>\#</item>
+        <item>EXAMPLES: Don’t go to malls or read certain websites or magazines.</item>
+        <item>EXAMPLES: If you have a job/ allowance try tithing 10%. Look through your closet and give away what you don’t wear or need.</item>
+    </string-array>
+    <string-array name="angerSymptoms">
+        <item>DISSATISFACTION WITH THE ABILITIES OR OPPORTUNITIES GOD HAS GIVEN YOU (“IT’S NOT FAIR!”)</item>
+        <item>NEEDING TO ALWAYS BE IN CONTROL</item>
+        <item>BEING JUDGMENTAL &amp; EASILY DISPLEASED</item>
+        <item>NURSING GRUDGES</item>
+        <item>REFUSAL TO FORGIVE OR TO OFFER OR ACCEPT RECONCILIATION</item>
+        <item>IMPATIENCE WHEN THINGS ARE NOT PUT RIGHT IMMEDIATELY</item>
+        <item>OBSESSIVE PREOCCUPA-TION WITH GETTING YOUR WAY</item>
+        <item>SPOILING ANOTHER’S PLEASURE BY UNCOOPERATIVENESS OR DISDAIN BECAUSE YOU HAVE NOT GOTTEN YOUR WAY OR BECAUSE YOU FEEL OUT OF SORTS OR SUPERIOR</item>
+    </string-array>
+    <string-array name="angerAskGod">
+        <item>HELP ME TO TRUST THAT YOU ARE IN CONTROL AND THAT THINGS WILL BE OK EVEN IF THEY DON’T GO MY WAY.</item>
+        <item>WHEN I GET ANGRY GIVE ME THE STRENGTH TO RESTRAIN MY ANGER AND THE ABILITY TO REMOVE MYSELF FROM THE SITUATION (EITHER MENTALLY OR PHYSICALLY OR BOTH).</item>
+        <item>HELP ME TO DIRECT MY ANGER AT THE THINGS YOU CARE ABOUT SO THAT I ACT OUT OF “HOLY EMOTION” AND NOT “HELLISH PASSION”.</item>
+    </string-array>
+    <string-array name="angerPractice">
+        <item>MEMORIZE AND PRAY THE JESUS PRAYER: “LORD JESUS CHRIST, SON OF GOD, HAVE MERCY ON ME A SINNER.”</item>
+        <item>KEEP A JOURNAL. WHEN YOU GET ANGRY JOT DOWN YOUR THOUGHTS TO GET SOME PERSPECTIVE ON YOUR “HOT BUTTONS.”</item>
+        <item>MAKE A LIST OF THE INJUSTICES YOU SEE AROUND YOU—AT SCHOOL, IN IRVINE, IN THE WORLD. THINK CREATIVELY ABOUT WHAT YOU (AND OUR CHURCH) CAN DO ABOUT IT!</item>
+    </string-array>
+    <string-array name="angerPracticeDetail">
+        <item>Pray this whenever it comes to mind throughout the day</item>
+        <item>After a few weeks look over your notes and ask yourself if any patterns emerge. This will help you prepare for the next time a similar situation arises.</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="gluttonySymptoms">
+        <item>DRUNKENNESS</item>
+        <item>EXCESSIVE LOVE AND ATTENTION TO THE PLEASURE OF EATING AND DRINKING</item>
+        <item>EATING TOO FUSSILY (CARING TOO MUCH ABOUT HOW YOUR MEAL IS PREPARED—“JUST THE WAY I LIKE IT”)</item>
+        <item>EATING TOO RICHLY (ONLY THE BEST, RICHEST, OR MOST SATISFYING FOODS)</item>
+        <item>EATING TOO MUCH</item>
+        <item>EATING TOO SOON, TOO HASTILY (IGNORING THE PROPER TIME OR PACE FOR EATING)</item>
+    </string-array>
+    <string-array name="gluttonyAskGod">
+        <item>HELP ME REALIZE THE WAYS IN WHICH THE PLEASURE FOR FOOD, RATHER THAN THE PURSUIT OF GODLINESS, RULES MY CHOICES AND LIFESTYLE.</item>
+        <item>HUMBLE ME SO I WILL RECOGNIZE THAT I WAS CREATED WITH A DEEP NEED FOR YOU.</item>
+        <item>MEET ME IN MY NEED! PLEASE SHOW ME HOW TO FIND FULLNESS IN YOU.</item>
+    </string-array>
+    <string-array name="gluttonyPractice">
+        <item>MEMORIZE MATTHEW 4.4. THINK ABOUT HOW YOU LIVE “ON BREAD ALONE.” THEN ASK WHAT IT WOULD LOOK LIKE TO LIVE “ON EVERY WORD THAT COMES FROM THE MOUTH OF THE LORD.”</item>
+        <item>FAST. EXPERIENCE YOURSELF AS A CREATURE. WE ARE CREATURES CREATED TO DEPEND ON THE ONE WHO CREATED US.</item>
+        <item>AS YOU FAST, SPEND TIME IN PRAYER WRESTLING WITH THE NEED YOU ARE FEELING.</item>
+    </string-array>
+    <string-array name="gluttonyPracticeDetail">
+        <item>\#</item>
+        <item>\#</item>
+        <item>Try journaling about what you’re thinking and feeling—especially the frustrations and failures you might be experiencing.</item>
+    </string-array>
+    <string-array name="lustSymptoms">
+        <item>LACK OF SELF-CONTROL</item>
+        <item>INCONSIDERATENESS</item>
+        <item>BEING UNREASONABLY IRRITABLE, IMPATIENT, OR ILL-TEMPERED</item>
+        <item>CONSTANT FEELINGS OF GUILT &amp; SELF-LOATHING</item>
+        <item>OBSESSIVE DESIRE FOR SEXUAL GRATIFICATION</item>
+    </string-array>
+    <string-array name="lustAskGod">
+        <item>GIVE ME THE DISCIPLINE AND STRENGTH TO FILL MY EYES, MIND, AND HEART WITH THINGS OF REAL BEAUTY AND WORTH.</item>
+        <item>HELP OUR CHURCH TO BE A PLACE OF ACCOUNTABILITY WHERE WE ENCOURAGE ONE ANOTHER TO TAKE SERIOUSLY OUR STRUGGLES WITH SIN.</item>
+        <item>HELP ME TO LEARN HOW TO LOVE OTHERS AS YOU LOVE THEM AND NOT AS OBJECTS I CAN USE FOR MY OWN PLEASURE.</item>
+    </string-array>
+    <string-array name="lustPractice">
+        <item>MEMORIZE PHIL. 4.8. THINK ABOUT WHAT YOU WATCH/READ/LISTEN TO AND CONSIDER WHAT CHANGES YOU CAN MAKE.</item>
+        <item>DEVELOP HEALTHY FRIENDSHIPS CENTERED ON CHRIST WHERE YOU CAN BE OPEN AND HONEST ABOUT BATTLING LUST.</item>
+        <item>DEFEND THE BEAUTY OF SEXUALITY BY KEEPING YOUR LANGUAGE AND GESTURES PURE. CONSIDER HOW THE THINGS YOU SAY LEADS YOU TO OBJECTIFY PEOPLE.</item>
+    </string-array>
+    <string-array name="lustPracticeDetail">
+        <item>\#</item>
+        <item>If you are dating, find a friend(s) that both of you can talk openly and honestly with about your relationship.</item>
+        <item>\#</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@id/iconMainIntro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickIntro"
+            android:paddingLeft="@dimen/main_icon_padding"
+            android:paddingRight="@dimen/main_icon_padding"
+            android:paddingTop="@dimen/main_icon_padding"
+            android:src="@drawable/main_icon_intro" />
+
+        <TextView
+            android:id="@id/textViewMainIntro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/intro"
+            android:textAllCaps="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@id/iconMainEnvy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="envyClick"
+            android:paddingLeft="@dimen/main_icon_padding"
+            android:paddingRight="@dimen/main_icon_padding"
+            android:paddingTop="@dimen/main_icon_padding"
+            android:src="@drawable/main_icon_envy" />
+
+        <TextView
+            android:id="@id/textViewMainEnvy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/envy"
+            android:textAllCaps="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@id/iconMainVainglory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="vaingloryClick"
+            android:paddingLeft="@dimen/main_icon_padding"
+            android:paddingRight="@dimen/main_icon_padding"
+            android:paddingTop="@dimen/main_icon_padding"
+            android:src="@drawable/main_icon_vainglory" />
+
+        <TextView
+            android:id="@id/textViewMainVainglory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vainglory"
+            android:textAllCaps="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@id/iconMainSloth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="slothClick"
+            android:paddingLeft="@dimen/main_icon_padding"
+            android:paddingRight="@dimen/main_icon_padding"
+            android:paddingTop="@dimen/main_icon_padding"
+            android:src="@drawable/main_icon_sloth" />
+
+        <TextView
+            android:id="@id/textViewMainSloth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sloth"
+            android:textAllCaps="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@id/iconMainAvarice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="avariceClick"
+            android:paddingLeft="@dimen/main_icon_padding"
+            android:paddingRight="@dimen/main_icon_padding"
+            android:paddingTop="@dimen/main_icon_padding"
+            android:src="@drawable/main_icon_avarice" />
+
+        <TextView
+            android:id="@id/textViewMainAvarice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/avarice"
+            android:textAllCaps="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@id/iconMainAnger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="angerClick"
+            android:paddingLeft="@dimen/main_icon_padding"
+            android:paddingRight="@dimen/main_icon_padding"
+            android:paddingTop="@dimen/main_icon_padding"
+            android:src="@drawable/main_icon_anger" />
+
+        <TextView
+            android:id="@id/textViewMainAnger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/anger"
+            android:textAllCaps="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@id/iconMainGluttony"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="gluttonyClick"
+            android:paddingLeft="@dimen/main_icon_padding"
+            android:paddingRight="@dimen/main_icon_padding"
+            android:paddingTop="@dimen/main_icon_padding"
+            android:src="@drawable/main_icon_gluttony" />
+
+        <TextView
+            android:id="@id/textViewMainGluttony"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gluttony"
+            android:textAllCaps="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@id/iconMainLust"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="lustClick"
+            android:paddingLeft="@dimen/main_icon_padding"
+            android:paddingRight="@dimen/main_icon_padding"
+            android:paddingTop="@dimen/main_icon_padding"
+            android:src="@drawable/main_icon_lust" />
+
+        <TextView
+            android:id="@id/textViewMainLust"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lust"
+            android:textAllCaps="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</GridLayout>
