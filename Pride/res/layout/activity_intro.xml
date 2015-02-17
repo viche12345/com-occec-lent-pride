@@ -108,8 +108,9 @@
                 android:src="@drawable/glittering_vices_cover" />
 
             <TextView
-                android:layout_width="fill_parent"
+                android:layout_width="300dp"
                 android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="8.0dip"
                 android:gravity="center"
                 android:text="@string/credit_caption" />
@@ -118,8 +119,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8.0dip"
-                android:layout_marginTop="8.0dip"
-                android:text="Finally, this app would not have been possible without the beautiful and masterfully crafted booklet and iconography. Shout outs to Minister Ken Hsu, Pastor John Harris, and Andrew Tai. Thank you all for continually blessing our community." />
+                android:text="\nThis app would not have been possible without the beautiful and masterfully crafted booklet and iconography. Shout outs to Minister Ken Hsu, Pastor John Harris, and Andrew Tai. Thank you all for continually blessing our community in so many ways!" />
         </LinearLayout>
     </ScrollView>
 
